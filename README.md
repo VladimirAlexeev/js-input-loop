@@ -1,2 +1,3 @@
 # js-input-loop
-JS function loop input value
+
+JS function for loop input value 30 times
